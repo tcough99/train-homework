@@ -1,15 +1,16 @@
 
 .panel{
-	width: 100%;
+    width: 100%;
+    color: black;
 }
 
+
+.panel-heading{
+	padding-top: 0.25%;
+}
 .jumbotron{
 	background-color: blue;
 	color: black;
 	padding-top: 1%;
 	padding-bottom: 2%;
-}
-
-.panel-heading{
-	padding-top: 0.25%;
 }
